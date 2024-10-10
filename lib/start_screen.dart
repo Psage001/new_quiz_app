@@ -29,7 +29,7 @@ class StartScreen extends StatelessWidget {
           OutlinedButton(
             onPressed: () {},
             style: OutlinedButton.styleFrom(foregroundColor: Colors.white),
-            child: Text('data'),
+            child: const Text('data'),
           ),
         ],
       ),
