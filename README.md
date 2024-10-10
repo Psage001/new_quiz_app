@@ -1,7 +1,5 @@
 # new_quiz_app
 
-A new Flutter project.
-
 ## Getting Started
 
 This project is a starting point for a Flutter application.
@@ -14,3 +12,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+This is a flutter quiz app i am creating
+>>>>>>> ec00eb8cb68698adba1b459612eea9be73576c3f
